@@ -6,7 +6,11 @@ Tarek Medrano
 Jonathan Lacombe
 
 -Austin Dragone
-Made the initial outline of project, and wrote the lit function. Created the feature that put vertical bars in the stack output when necessary. Tested inputs to make sure it matched the provided output. Fixed bugs involving incorrect stack output, general output format, and several function issues.
+Made the initial outline of project.
+Wrote the lit function.
+Created the feature that put vertical bars in the stack output when necessary.
+Tested inputs.
+Fixed bugs involving incorrect stack output, general output format, and several function issues.
 
 -Gabriela Fisher
 Worked on the jmp and jpc functions
@@ -18,8 +22,6 @@ posting solutions to the  VM.c file fixing the errors and warnings that it would
 found the solution to the seg fault.
 tested inputs.
 added a base funtion.
-
-
 
 -Tarek Medrano
 Completed the Opr function and the arithmetic/logical instructions involved.
