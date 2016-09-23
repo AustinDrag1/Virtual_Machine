@@ -25,4 +25,5 @@ added a base funtion.
 details
 
 -Jonathan Lacombe
-details
+Added input file reading and console printing
+Worked on SIO function
